@@ -11,8 +11,7 @@
 <h2>Announcements of the exercises and their names in the file: </h2>
 
 - **Exercise 1 / ex1:**  Write a program that reads a 4 x 5 matrix and, at the end, displays:
-
-the quantity of even numbers,
+  - the quantity of even numbers,
 the quantity of odd numbers,
 the sum of even numbers,
 the sum of odd numbers,
