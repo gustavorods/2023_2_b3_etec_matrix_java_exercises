@@ -12,11 +12,11 @@
 
 - **Exercise 1 / ex1:**  Write a program that reads a 4 x 5 matrix and, at the end, displays:
   - the quantity of even numbers,
-the quantity of odd numbers,
-the sum of even numbers,
-the sum of odd numbers,
-the average of even numbers, and
-the average of odd numbers.
+  - the quantity of odd numbers,
+  - the sum of even numbers,
+  - the sum of odd numbers,
+  - the average of even numbers, and
+  - the average of odd numbers.
 
 - **Exercise 2 / ex2:** Write a program that reads a matrix (3x5 or 5x3) of 15 integers and, at the end, displays the sum of the values for each row stored in this matrix.
 
